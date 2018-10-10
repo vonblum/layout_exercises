@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=RobotoSlab');
+
+p {
+  background: #f8e71c;
+  width: 260px;
+  padding: 10px;
+}
+
+body {
+  font-family: RobotoSlab, sans-serif;
+}
+
+div {
+  position: relative;
+  width: 300px;
+  height: 500px;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 64px;
+  font-weight: normal;
+  text-align: right;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  margin-left: 11px;
+  margin-right: 18px;
+}
+
+.chaticon {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  bottom: 10px;
+  right: 10px;
+}
+
+.closeicon {
+  position: absolute;
+  height: 36px;
+  top: 10px;
+  right: 8px;
+}
+
+.Antarctica {
+  width: 270px;
+  height: 214px;
+  font-size: 36px;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 18px;
+  padding-left: 13px;
+}
